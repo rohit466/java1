@@ -4,3 +4,4 @@ newfile added
 file update
 file change 
 ppppppppppp
+file change fast forward 
