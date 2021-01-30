@@ -1,2 +1,3 @@
 this is file2
 file2.txt is modified
+newfile added
