@@ -1,3 +1,4 @@
 this is file2
 commit done
 new changes
+fast-forward merge
