@@ -1,6 +1,2 @@
 this is file2
-commit done
-new changes
-fast-forward merge
-test for 3 way merge
-for testing purpose
+conflicts error
