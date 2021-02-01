@@ -1,4 +1,2 @@
 this is file2
-conflicts error
-file again change
-fast-forward merge git pull
+welcome to devops
